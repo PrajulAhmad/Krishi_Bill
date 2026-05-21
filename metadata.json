@@ -1,0 +1,6 @@
+{
+  "name": "Krishi-Bill",
+  "description": "Corporate Modern style heavy-duty offline-first farm billing and work logging management utility",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
